@@ -50,7 +50,7 @@ section {
 .published {
   font-family: "figtree";
   text-align: left;
-  font-weight: 500;
+  font-weight: 600;
   margin-left: 25px;
   margin-bottom: 15px;
 }
@@ -73,6 +73,7 @@ h2 {
   margin-bottom: 15px;
   padding-right: 35px;
   font-weight: 500;
+  font-size: 18px;
   /* text-decoration: inherit */
 }
 
